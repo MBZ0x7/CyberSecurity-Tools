@@ -8,7 +8,7 @@
 </h1>
 <h4>Cyber Security related tools. Feel free to share them!</h4>
   
-[![GitHub issues](https://img.shields.io/github/issues/MBZ0x7/MyScripts)](https://github.com/MBZ0x7/MyScripts/issues)
+![GitHub issues](https://img.shields.io/github/issues/MBZ0x7/CyberSecurity-Tools)
 <p>
   <a href="#disclaimer">Disclaimer</a>
 </p>
